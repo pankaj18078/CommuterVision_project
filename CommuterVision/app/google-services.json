@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "172445715104",
+    "firebase_url": "https://comvision-d4e65.firebaseio.com",
+    "project_id": "comvision-d4e65",
+    "storage_bucket": "comvision-d4e65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172445715104:android:b677d9551ff0e7d41717c5",
+        "android_client_info": {
+          "package_name": "com.example.comvision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172445715104-2dtp8cp5r9qrn5mo2107v481d94gedg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comvision",
+            "certificate_hash": "27f7a283f1fdb26ac27a80d991db7512093b8812"
+          }
+        },
+        {
+          "client_id": "172445715104-rjugvp8eeg1puofk7u73m5rbr6hkap4e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.comvision",
+            "certificate_hash": "512e690d5420ecbdc4141d27a4619482ce79f6b4"
+          }
+        },
+        {
+          "client_id": "172445715104-68c3scm5gs41ifapvenqe6o3o7ifstce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLmLI6XkfdDEfFrzB1gLv54NWedwoy2h4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172445715104-68c3scm5gs41ifapvenqe6o3o7ifstce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
